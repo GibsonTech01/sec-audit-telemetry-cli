@@ -1,0 +1,17 @@
+{
+  "timestamp_utc": "2026-09-29T18:15:00.000Z",
+  "scanner_version": "1.0.0",
+  "system_telemetry": {
+    "hostname": "workstation-node01",
+    "platform": "Linux",
+    "cpu_usage_percent": 14.2,
+    "memory_used_percent": 42.1
+  },
+  "baseline_checks": [
+    {
+      "check_id": "SEC-001",
+      "description": "Execution with elevated administrator privileges",
+      "status": "PASS"
+    }
+  ]
+}
